@@ -1,0 +1,12 @@
+# Ignore compiled object files
+obj/
+*.o
+
+# Ignore compiled binaries and icons
+bin/
+*.exe
+*.lnk
+
+# Ignore Code::Blocks user settings
+*.layout
+*.depend
